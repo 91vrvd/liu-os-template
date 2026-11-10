@@ -1,0 +1,17 @@
+Earth imagery: Solar System Scope / INOVE
+https://www.solarsystemscope.com/textures/
+Licensed under Creative Commons Attribution 4.0 International:
+https://creativecommons.org/licenses/by/4.0/
+
+Earth Day Map and Earth Night Map (8K), downloaded 2026-10-01.
+8K JPEG files are unchanged. 4K versions were downsampled and JPEG-compressed.
+The source combines and adjusts NASA imagery, including Blue Marble.
+These are static composite textures, not real-time satellite imagery.
+Real-time day/night illumination is calculated separately by this website.
+
+Original download URLs:
+https://www.solarsystemscope.com/textures/download/8k_earth_daymap.jpg
+https://www.solarsystemscope.com/textures/download/8k_earth_nightmap.jpg
+
+The lightweight fallback textures remain from the Three.js examples:
+earth_atmos_2048.jpg and earth_lights_2048.png.

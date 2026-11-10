@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1785205912349,
+      "tag": "0000_ambitious_dorian_gray",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1785241351589,
+      "tag": "0001_robust_metal_master",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1785280160853,
+      "tag": "0002_medical_mariko_yashida",
+      "breakpoints": true
+    }
+  ]
+}

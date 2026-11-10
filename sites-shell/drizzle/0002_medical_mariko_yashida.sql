@@ -1,0 +1,1 @@
+ALTER TABLE `share_rooms` ADD `network_hash` text;
